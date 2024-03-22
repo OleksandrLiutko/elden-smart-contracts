@@ -1,0 +1,21 @@
+{
+  "devDependencies": {
+    "@nomiclabs/hardhat-etherscan": "^3.1.7",
+    "ethereum-waffle": "^3.2.0",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.11.2",
+    "hardhat-gas-reporter": "^1.0.9"
+  },
+  "dependencies": {
+    "@chainlink/contracts": "^0.6.1",
+    "@nomiclabs/hardhat-ethers": "^2.1.1",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "@openzeppelin/contracts": "^3.3.0",
+    "@openzeppelin/contracts-upgradeable": "^4.8.0-rc.1",
+    "chai": "^4.3.6",
+    "color": "^4.2.3",
+    "dotenv": "^16.0.2",
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.3.9"
+  }
+}

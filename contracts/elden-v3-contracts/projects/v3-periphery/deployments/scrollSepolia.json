@@ -1,0 +1,9 @@
+{
+  "SwapRouter": "0x8055CA3e1f13661Be73860DBC0c56602dA9A6150",
+  "V3Migrator": "0x0d09bE5f2fb26e7D564fe28D7f812494595B1C89",
+  "QuoterV2": "0xd2FC79eE0e4BC978fc8dA21108e69527f4a98CAb",
+  "TickLens": "0xe901DD2b231A95b99dE54828Bb01D0f57Cc50aFf",
+  "NonfungibleTokenPositionDescriptor": "0xF183E27623c57BD498EA332e7e7a10877CAc6AcB",
+  "NonfungiblePositionManager": "0xA06Fa05469bD8aa31163f53a1C87591F602e1688",
+  "EldenInterfaceMulticall": "0x0bc337154a4551CeD1b1Bb2e164854fF17e6aE90"
+}

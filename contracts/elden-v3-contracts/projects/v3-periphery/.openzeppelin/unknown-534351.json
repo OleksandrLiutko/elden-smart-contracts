@@ -1,0 +1,180 @@
+{
+  "manifestVersion": "3.2",
+  "admin": {
+    "address": "0x16A8D2A2b110996b20cd953eb86d8Ff53e100e81",
+    "txHash": "0x848c1a78c006d31d03aadc6af3ea6cf5f7924fc9c4616b6c06afb85511409ecc"
+  },
+  "proxies": [
+    {
+      "address": "0xb59B16B2B007C2fe85F9aE1C03F82bCa7D9e63c9",
+      "txHash": "0x569413abcb888d7d756d04c823e78ec09a5b26a0e81acb71c68eff5b9f43cbd6",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x4Fad5f384db0Cf2a6a62825643C86E5001BB7De2",
+      "txHash": "0x00a230dfbf4d5c5d64fe37a2fbd934449c0416b9adfd98ab8fff9d2dffd5d4cd",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x6C76f5240D134953E246d64AA866850CFD6D8153",
+      "txHash": "0x9ccef16a141dd902236a45032d92595e4f639b239b59af0e64ffbef28f55f19f",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x0b131db985A4F247598D61fCacd6Ac9Ab4808365",
+      "txHash": "0xc513b180888638d8bd0287107f163cd6d1d9f57a5b8a43037e547512aba3192f",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xCdC79de2cd0F79f91Dab65E9912e9F9FfD48b011",
+      "txHash": "0xee67ebc18abfdaa1da5d29adc6f959e8f480239248edbff2c80658473a8df9a5",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xfd3e4a2b45930d4F02DC6D3F32e986E9f2441dc3",
+      "txHash": "0x095d386224f1d4d300b402ba24e983c99cdb069d974cee8022f6cc28c8f31833",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xd067019db43e3372c788374A39bF7C0eB63E11e4",
+      "txHash": "0xdbd19c0325915fd7fe666a6506bb14b56b98c6c5eb9ede2332b852aaeab89187",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x1e6C0204Ad1b8e8bD5206EDe951a4ff183c734b7",
+      "txHash": "0x642f1acbaf86e6f0fc57a3c2e447f7a0a7eddab9b732dd664b2963bc83f4ab5b",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x86D992C6728a31B5920bf1cB606CB024Daad3fde",
+      "txHash": "0x1f598559632f01e9f16a5c2d4f93885c34aee6143e6f8b16bb7a7a9a7c368568",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xbAB6305b0Ba5BD715834D2683Bc4187CB8ED0c96",
+      "txHash": "0x7c7c6ac61fdebcc6477ef3c255f9841948709c045ccfa40a04bb81cd891d2cf9",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xe9f522394Bd0830d1709BEfc86f501D33645a7AB",
+      "txHash": "0x202dcbfb79315c65fb0c7718c2e609fcae91364b7dfae72021d024c5d7d47b83",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x4985185A05aF6C08ec602fa7fE49dE67f68F79c9",
+      "txHash": "0x8c29bc48fada94c890630f4a38dca2e90655f94d7c4216874317cb6ff6cd8e33",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x3d8Bb66f63eB21dC9650faEb2dFb7CC58db331Ce",
+      "txHash": "0x5d611c8cdabf1a2c02b01455973c2441258f738bae08112fe70838215b6f6f99",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x66FD8608e801D33477FccC6E153D57A5494cF83C",
+      "txHash": "0xfe3e8bae9675b4f792a4fa5643706bcf29bb5ed6cfe30db097c6ff76aac23829",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x28a22fF49415A809A53aD7AEF943C594D2c43c87",
+      "txHash": "0xbcceb94c1a945db59d00a53dd2b9779412f168a0b04f214a271575dea6de8eed",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x3C54D851aeb569433529e470411c00A1387495Ce",
+      "txHash": "0xc588fedd9da88c49943a154d05f67800f1c63c312bbeb0ee9dd0376feaf79443",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x09c7D128DD417E6Fc875495098faD6d93bbD29E0",
+      "txHash": "0xdec545a0f1b0f5a443a339185cbf4dcb79281b98fc65e355582621671888cd34",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x39836C44263391CF7CFe0d50459A01f455F2ed97",
+      "txHash": "0x93ca6310a48ceaddad91ddbd107bf4fa3f3d8a3c5f09aa5704487153b1326c41",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x2600E32e713fDFb229c42486d9A7213eABf1f2A8",
+      "txHash": "0x7dba4e8392eeb60cd2bf2835e3bf6ff2d8f619396044c5243c37cf7b156d1da7",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x10Ad7F70f736ef147Cc13e07b2DCFfc587298F6c",
+      "txHash": "0x4712eb9b237950b7eabe1f71c44f22b62608451e39602d3da693bdf0c3a7dc64",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xF50cab339e185519B7D90Daa5b209Ad87216F877",
+      "txHash": "0x580dc5b9179b2e5e28bd061fa87eb1c8ba7b56a536b96ff1dcb9bf103bf4cb86",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x952Aa27df71A689Ef4203B52AA17D29e4B5aA28D",
+      "txHash": "0x49b8370f44874cc0535595563fdbbb5630289aecddd93e6d460eba3708b329d3",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x8b18eceE725bF5AC346BD44A30B2Bd66645E4D49",
+      "txHash": "0x826b64adf9e0e83e22190ea358e6541a012defed8cc719bbb5b72f867b9e0578",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xC2BA073170c9942BA777bE8906B311ce0A78b6AF",
+      "txHash": "0x42e8511906bcc8a09219bdcdd4fd42437198d228c2692f73e657e1cb6fbe02af",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xF183E27623c57BD498EA332e7e7a10877CAc6AcB",
+      "txHash": "0x8a43e18b712df5d45c6bfdf72ef2c2097fbb4ae2ae3219d0d7a1dcd6abc9eccf",
+      "kind": "transparent"
+    }
+  ],
+  "impls": {
+    "2a88f0a49a9c25b1c479a31be14897cf1d01115d45ba4287ded3734b5bb356e7": {
+      "address": "0x5F0AC4ca007aD4c6E1064073132Ab193E4989442",
+      "txHash": "0x662c596f0073894050ba871cff089e42e1318dec64f15dc6a2c4d2f8712e649f",
+      "layout": {
+        "solcVersion": "0.7.6",
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\Initializable.sol:25"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\Initializable.sol:30"
+          },
+          {
+            "label": "_baseTokenURI",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_string_storage",
+            "contract": "NonfungibleTokenPositionDescriptorOffChain",
+            "src": "contracts\\NonfungibleTokenPositionDescriptorOffChain.sol:14"
+          }
+        ],
+        "types": {
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_string_storage": {
+            "label": "string",
+            "numberOfBytes": "32"
+          }
+        },
+        "namespaces": {}
+      }
+    }
+  }
+}

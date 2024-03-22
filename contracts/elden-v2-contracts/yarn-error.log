@@ -1,0 +1,49 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\yarn\bin\yarn.js
+
+PATH: 
+  C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Users\SSS\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files\Git\cmd;C:\Program Files\PuTTY\;C:\Program Files (x86)\dotnet\;C:\Users\SSS\AppData\Local\Microsoft\WindowsApps;C:\Users\SSS\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Users\SSS\AppData\Local\Programs\Microsoft VS Code\bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  16.18.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: connect ETIMEDOUT 104.16.28.34:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1278:16)
+
+npm manifest: 
+  {
+    "devDependencies": {
+      "@nomiclabs/hardhat-etherscan": "^3.1.7",
+      "ethereum-waffle": "^3.2.0",
+      "ethers": "^5.7.2",
+      "hardhat": "^2.11.2",
+      "hardhat-gas-reporter": "^1.0.9"
+    },
+    "dependencies": {
+      "@chainlink/contracts": "^0.6.1",
+      "@nomiclabs/hardhat-ethers": "^2.1.1",
+      "@nomiclabs/hardhat-waffle": "^2.0.3",
+      "@openzeppelin/contracts": "^4.2.0",
+      "@uniswap/lib": "4.0.1-alpha",
+      "@openzeppelin/test-helpers": "^0.5.11",
+      "@openzeppelin/contracts-upgradeable": "^4.8.0-rc.1",
+      "chai": "^4.3.6",
+      "color": "^4.2.3",
+      "dotenv": "^16.0.2",
+      "keccak256": "^1.0.6",
+      "merkletreejs": "^0.3.9"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
